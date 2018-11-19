@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 fafadaf
 x≈abca
 dfsd
 dfsf
+=======
+abca
+>>>>>>> parent of c512cf0... change text.txt
